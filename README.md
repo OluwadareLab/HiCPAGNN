@@ -9,7 +9,6 @@
 We introduce HiCPAGNN, a scalable graph neural network for 3D genome structure reconstruction centered on
 Cardinality-Preserved Attention (CPA). CPA preserves connectivity-dependent structural signals that can be suppressed
 by conventional attention normalization while capturing chromatin organization across multiple spatial scales. HiCPAGNN provides a scalable, GPU-accelerated framework for reconstructing 3D genome structures from both bulk and single-cell Hi-C data.
----Add piepeline here--
 
 ---
 
