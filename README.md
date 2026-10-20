@@ -1,8 +1,13 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OluwadareLab.HiCPAGNN)
 
-# HiCPAGNN
+# HiCPAGNN: Hi-C 3D Genome Structure Reconstruction Using Cardinality-Preserved Attention Graph Neural Network
 ------------------------------------------------------------------------------------------------------------------------------------
-Description is coming soon!
+We introduce HiCPAGNN, a scalable graph neural network for 3D genome structure reconstruction centered on
+Cardinality-Preserved Attention (CPA). CPA preserves connectivity-dependent structural signals that can be suppressed
+by conventional attention normalization while capturing chromatin organization across multiple spatial scales.  HiCPAGNN provides a scalable, GPU-accelerated framework for reconstructing 3D genome structures from both bulk and single-cell Hi-C data.
+---Add piepeline here--
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Repository Structure
 
