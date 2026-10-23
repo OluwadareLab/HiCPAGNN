@@ -92,6 +92,14 @@ _For laptops or non-GPU servers._
 pip install torch torchvision
 ```
 
+## Data
+
+You can opt for a quick start using our already processed data. This is made available on Zenodo. You can also find the main source of these data below to manually pre-process them yourself.
+
+Access the GSE63525 GEO entry for Hi-C data from (Rao et al., 2014) [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63525). We used the [GM12878](https://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63525/suppl/GSE63525%5FGM12878%5Finsitu%5Fprimary%2Breplicate%5Fcombined%2Ehic) in situ primary and replicate combined Hi-C dataset and the [K562](https://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63525/suppl/GSE63525%5FK562%5Fcombined%2Ehic) combined Hi-C dataset.
+Find the Prostate cancer cell Hi-C data (GEO accession: GSE172099) from (San Martin et al., 2021) [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE172099). We used Prostate-RWPE1-HiC ([GSE118629](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118629)), Prostate-LNCaP-HiC ([GSM5241744](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5241744)), Prostate-VCaP-HiC-1 ([GSM5241749](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5241749)).
+For Single-cell reconstruction, Human frontal cortex single-cell Hi-C [data](https://salkinstitute.app.box.com/s/fp63a4j36m5k255dhje3zcj5kfuzkyj1) (GEO accession: GSE130711) from (Wang and Cheng, 2025) were used.
+
 ## 🚀 Usage
 
 ### Bulk Hi-C Training
