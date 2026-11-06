@@ -1,6 +1,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OluwadareLab.HiCPAGNN)
 
-# HiCPAGNN: Hi-C 3D Genome Structure Reconstruction Using Cardinality-Preserved Attention Graph Neural Network
+# HiCPAGNN: Cardinality-Preserved Graph Attention for 3D Genome Reconstruction from Bulk and Single-Cell Hi-C Data
 
 ---
 
